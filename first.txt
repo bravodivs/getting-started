@@ -1,0 +1,2 @@
+so in the starting, we created a new file in the desired repository(a place to store). a commit is a change.
+for goign back to previous versions, click on commits and choose the file.
